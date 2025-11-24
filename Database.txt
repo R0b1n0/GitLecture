@@ -1,3 +1,7 @@
 Alice 		666
 Bob 		69
 Charlène 	42
+David		420
+Eve		-5
+Françoise	9001
+Gérard		2
