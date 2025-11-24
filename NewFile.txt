@@ -1,1 +1,2 @@
 My beautiful new file
+with a new line
