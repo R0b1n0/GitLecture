@@ -7,3 +7,8 @@ Françoise	9001
 Gérard		2
 Henry Cavill	3485094380950388458
 Chuck Norris	3485094380950388458.1
+
+Leaderboard:
+Henry Cavill
+Françoise
+Alice
