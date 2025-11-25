@@ -1,0 +1,10 @@
+# Ensure that text files that any contributor introduces to the repository have their line endings normalized
+* text=auto
+
+[attr]normal-file -text
+[attr]lfs-file filter=lfs diff=lfs merge=lfs -text
+
+*.png lfs-file
+*.jpeg lfs-file
+*.jpg lfs-file
+*.gif lfs-file
